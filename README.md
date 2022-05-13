@@ -1,4 +1,4 @@
-# Maps-Project
+# Trek
 
 ## Technologies we used
 ### 1. Husky and Prettier
