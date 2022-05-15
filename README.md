@@ -1,5 +1,14 @@
 # Trek
 
+## Setup
+
+```
+yarn install
+yarn start
+```
+
+You may also want to in
+
 - [Technologies we used](#technologies-we-used)
   - [1. Husky and Prettier](#1-husky-and-prettier)
   - [2. Yarn](#2-yarn)
