@@ -3,7 +3,7 @@
 ## Setup
 
 ```
-yarn install
+yarn add
 yarn start
 ```
 
